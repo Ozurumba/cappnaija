@@ -6,7 +6,7 @@ The Citizens Application for Political Participation (CAPP) is a CivicTech tool 
 All information shared on CAPP are public and open source document published by the Federal Government of Nigeria through the National Orientation Agency (https://www.noa.gov.ng/) , 
 
 
-All policy documents <a href="https://www.fao.org/faolex/results/en/?query=Nigeria%20Policies">(),
+All policy documents https://www.fao.org/faolex/results/en/?query=Nigeria%20Policies,
 
 
 Federal government support schemes including, Government Enterprise and Empowerment Program <a href=""> (https://www.boi.ng/products/government-enterprise-and-empowerment-programme-geep/ ), 
