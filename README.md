@@ -1,8 +1,5 @@
 # cappnaija
 
-
-The Citizens Application for Political Participation (CAPP) is a CivicTech tool by The Innovation Centre for Inclusive Growth, duly approved by the Corporate Affairs Commission, an agency of the federal government of Nigeria to empower youth in governance through the provision of tools and platforms for active citizens participation in shaping the future of Nigeria. It is developed to promote increase civic participation, empowering the Nigerian citizens to actively contribute to the democratic process. 
-
 All information shared on CAPP are public and open source document published by the Federal Government of Nigeria through the National Orientation Agency (https://www.noa.gov.ng/) , 
 
 
