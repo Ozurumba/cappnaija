@@ -8,7 +8,7 @@ All policy documents https://www.fao.org/faolex/results/en/?query=Nigeria%20Poli
 
 Federal government support schemes including, Government Enterprise and Empowerment Program <a href=""> (https://www.boi.ng/products/government-enterprise-and-empowerment-programme-geep/ ), 
 
-Presidential conditional grants (https://www.fedgrantandloan.gov.ng ), 
+Presidential conditional grants (https://www.boi.ng/federal-government-presidential-conditional-grant-scheme-pcgs-rolls-out-to-empower-nano-businesses-across-nigeria/ ), 
 
 SMEDAN government support (www.smedanregister.ng ), 
 
