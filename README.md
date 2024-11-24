@@ -32,8 +32,6 @@ NIRSAL (www.nirsal.com ),
 
 NYIF, NYSP, NEXTGEN, YLI by the Federal Ministry of Youth Development (www.fmyd.gov.ng ), 
 
-Supa Initiative (www.supa.itf.gov.ng ), 
-
 Nigeria Education Loan fund (www.nelf.gov.ng ), 
 
 The Nigerian constitution 
