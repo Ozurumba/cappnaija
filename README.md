@@ -1,5 +1,7 @@
 # cappnaija
 
+CAPP Privacy Policy (https://cappnaija.org/privacypolicy.html) 
+
 All information shared on CAPP are public and open source document published by the Federal Government of Nigeria through the National Orientation Agency (https://www.noa.gov.ng/) , 
 
 
@@ -9,8 +11,6 @@ All policy documents https://www.fao.org/faolex/results/en/?query=Nigeria%20Poli
 Federal government support schemes including, Government Enterprise and Empowerment Program <a href=""> (https://www.boi.ng/products/government-enterprise-and-empowerment-programme-geep/ ), 
 
 Presidential conditional grants (https://www.boi.ng/federal-government-presidential-conditional-grant-scheme-pcgs-rolls-out-to-empower-nano-businesses-across-nigeria/ ), 
-
-SMEDAN government support (www.smedanregister.ng ), 
 
 Artisanal miners intervention fund (https://www.boi.ng/products/artisanal-miners-intervention-fund/ ), 
 
